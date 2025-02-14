@@ -1,8 +1,8 @@
 # Sofiullah Iqbal Kiron
-coding my career...
+Coding My Career.
 
 ## Professional Timeline
-- `Augmented Reality Engineer` at **Next Solution Lab**. Develop AR/VR lenses that brings real time product experiences. [December 2024 to Now]
+- Augmented Reality Engineer at **Next Solution Lab**. Develop AR/VR lenses that brings real time product experiences. [December 2024 to Now]
 - Backend Developer at **Techforing Ltd.** Particularly develop SaaS products. [August 2024 to November 2024]
 
 ## Online Judge Handles
