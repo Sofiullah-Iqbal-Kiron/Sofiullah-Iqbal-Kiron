@@ -1,5 +1,6 @@
 # Sofiullah Iqbal Kiron
-Software Engineer at **Techforing Ltd.** Particularly SaaS developer.
+- Augmented Reality Engineer at **Next Solution Lab (NSL)**. Develop AR/VR lenses that brings real time product experiences.
+- Backend Developer at **Techforing Ltd.** Particularly SaaS developer. [August 2024 to November 2024]
 
 ## Online Judge Profiles
 1. [Leetcode](https://leetcode.com/u/Kiron1023/) • 215+ problems solved
