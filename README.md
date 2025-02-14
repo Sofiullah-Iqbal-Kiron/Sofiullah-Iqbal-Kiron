@@ -5,7 +5,7 @@ coding my career...
 - Augmented Reality Engineer at **Next Solution Lab (NSL)**. Develop AR/VR lenses that brings real time product experiences. [December 2024 to Now]
 - Backend Developer at **Techforing Ltd.** Particularly SaaS developer. [August 2024 to November 2024]
 
-## Online Judge Profiles
+## Online Judge Handles
 1. [Leetcode](https://leetcode.com/u/Kiron1023/) • 215+ problems solved
 2. [Hackerrank](https://www.hackerrank.com/profile/Sofiullah_Kiron) • 4 badges
 3. [GFG](https://www.geeksforgeeks.org/user/sofiulk1023/)
