@@ -16,3 +16,8 @@ Coding My Career.
 ## Academic Career
 - B. Sc. in Engineering at Computer Science from Gopalganj Science and Technology University.
 - Intermediate Passed [Science Department] from Fazilatunnessa Govt. College.
+
+## Top Corporate Projects
+- Courier Service Automation Software for **Parcel Point**.
+- Exam Taking System for **One Academy BD**.
+- Project Management Tool for **TeamCollab**.
