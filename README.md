@@ -12,3 +12,7 @@ Coding My Career.
 4. [Atcoder](https://atcoder.jp/users/Sofiullah_Iqbal) • 19 highest score
 5. [Timus](https://acm.timus.ru/author.aspx?id=60770)
 6. [Codeforces](https://codeforces.com/profile/Sofiullah_Iqbal_Kiron)
+
+## Academic Career
+- B. Sc. in Engineering at Computer Science from Gopalganj Science and Technology University.
+- Intermediate Passed [Science Department] from Fazilatunnessa Govt. College.
