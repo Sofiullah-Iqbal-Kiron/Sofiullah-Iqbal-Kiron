@@ -1,5 +1,5 @@
 # Sofiullah Iqbal Kiron
-- Augmented Reality Engineer at **Next Solution Lab (NSL)**. Develop AR/VR lenses that brings real time product experiences.
+- Augmented Reality Engineer at **Next Solution Lab (NSL)**. Develop AR/VR lenses that brings real time product experiences. [December 2024 to Now]
 - Backend Developer at **Techforing Ltd.** Particularly SaaS developer. [August 2024 to November 2024]
 
 ## Online Judge Profiles
