@@ -18,6 +18,6 @@ Coding My Career.
 - Intermediate Passed [Science Department] from Fazilatunnessa Govt. College.
 
 ## Top Corporate Projects
-- Courier Service Automation Software for **Parcel Point**.
+- Courier Service Automation Software for **Parcel Fly**.
 - Exam Taking System for **One Academy BD**.
 - Project Management Tool for **TeamCollab**.
