@@ -20,6 +20,8 @@ Coding my career...
 - Intermediate Passed [Science Department] from Fazilatunnessa Govt. College.
 
 ## Top Corporate Projects
+- Gamification API Services for **GameBD**.
+- Loyalty Platform for **ReadyLab Inc.** (Singapore).
 - Courier Service Automation Software for **Parcel Fly**.
 - Exam Taking System for **One Academy**.
 - Project Management Tool for **TeamCollab**.
