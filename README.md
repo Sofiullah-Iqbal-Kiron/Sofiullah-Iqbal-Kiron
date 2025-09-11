@@ -2,6 +2,7 @@
 Coding my career...
 
 ## Professional Timeline
+- Backend Engineer at **GameBD**. Implement backend infrustructures for their gamification and loyalty platforms. [January 2025 to Now (Fulltime)]
 - Head of Engineering at **Parcel Fly**. Lead to design and develop their fast paced courier service solution. [December 2024 to Now (Contractual)]
 - Augmented Reality Engineer at **Next Solution Lab**. Develop AR/VR lenses that brings real time product experiences. [December 2024 to February 2025]
 - Backend Developer at **Techforing Ltd.** Particularly develop SaaS products. [August 2024 to November 2024]
