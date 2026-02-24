@@ -6,7 +6,7 @@
 
 ## 📈 Professional Timeline
 
--   ✅ **Backend Engineer (Lead)** at [GameBD](https://gamebd.co) — implement backend infrastructure for gamification & loyalty platform. _(Jan 2025 – Now)_
+-   **Backend Lead** at [GameBD](https://gamebd.co) — implement backend infrastructure for gamification and loyalty platform. _(Jan 2025 – Now)_
 -   **Augmented Reality Engineer** at [Next Solution Lab](https://www.nextsolutionlab.com) — developed [SnapAR](https://ar.snap.com) lenses for real-time virtual try-ons. _(Dec 2024 – Feb 2025)_
 -   **Backend Developer** at [Techforing Ltd.](https://www.techforing.com) — developed SaaS products. _(Aug 2024 – Nov 2024)_
 -   **Head of Engineering** at **Parcel Fly** — designed & developed a fast-paced courier automation system. _(Dec 2024 – Sept 2025, Contractual)_
