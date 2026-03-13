@@ -1,10 +1,8 @@
 # Sofiullah Iqbal Kiron
 
-💻 Coding my career...
+Coding my career...
 
----
-
-## 📈 Professional Timeline
+## Professional Timeline
 
 -   **Backend Lead** at [GameBD](https://gamebd.co) — implement backend infrastructure for gamification and loyalty platform. _(Jan 2025 – Now)_
 -   **Augmented Reality Engineer** at [Next Solution Lab](https://www.nextsolutionlab.com) — developed [SnapAR](https://ar.snap.com) lenses for real-time virtual try-ons. _(Dec 2024 – Feb 2025)_
@@ -12,9 +10,7 @@
 -   **Head of Engineering** at **Parcel Fly** — designed & developed a fast-paced courier automation system. _(Dec 2024 – Sept 2025, Contractual)_
 -   **Fullstack Web Developer** at **One Academy** — built & maintained educational apps and systems. _(Apr 2024 – Jan 2025, Contractual)_
 
----
-
-## 🏆 Online Judge Handles
+## Online Judge Handles
 
 -   [Leetcode](https://leetcode.com/u/Kiron1023/) • _215+ problems solved_
 -   [Hackerrank](https://www.hackerrank.com/profile/Sofiullah_Kiron) • _4 badges_
@@ -23,17 +19,13 @@
 -   [Timus](https://acm.timus.ru/author.aspx?id=60770)
 -   [Codeforces](https://codeforces.com/profile/Sofiullah_Iqbal_Kiron)
 
----
+## Top Corporate Projects
 
-## 🚀 Top Corporate Projects
-
--   🎮 **[GameBD](https://play.gamebd.co)** — Gamification services platform
--   🌏 **[ReadyLab Inc.](https://play.readylab.co)** (Singapore) — Loyalty platform
--   🚚 **Parcel Fly** — Courier service automation system
--   📝 **One Academy** — Exam taking & educational system
--   📊 **TeamCollab** — Project management tool
-
----
+-  **[GameBD](https://play.gamebd.co)** — Gamification services platform
+-  **[ReadyLab Inc.](https://play.readylab.co)** (Singapore) — Loyalty platform
+-  **Parcel Fly** — Courier service automation system
+-  **One Academy** — Exam taking & educational system
+-  **TeamCollab** — Project management tool
 
 ## Tech Stack
 
@@ -79,7 +71,7 @@
 
 ---
 
-## 🎓 Academic Career
+## Academic Career
 
 -   **B.Sc. in Computer Science & Engineering** — Gopalganj Science and Technology University _(Completed 2022)_
 -   **Higher Secondary Certificate (Science)** — Hazaribag Govt. College _(Completed 2017)_
