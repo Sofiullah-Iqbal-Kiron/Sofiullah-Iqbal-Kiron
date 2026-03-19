@@ -23,7 +23,7 @@ Coding my career...
 
 -  **[GameBD](https://play.gamebd.co)** — Gamification services platform
 -  **[ReadyLab Inc.](https://play.readylab.co)** (Singapore) — Loyalty platform
--  **Parcel Fly** — Courier service automation system
+-  **[Parcel Fly](https://parcelflybd.com)** — Logistics & courier service solution
 -  **One Academy** — Exam taking & educational system
 -  **TeamCollab** — Project management tool
 
